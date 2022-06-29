@@ -26,10 +26,14 @@ https://discord.gg/MS6TMgRfqB
 ```
 - npm i
 - Add token file index.js
-- Create app [CLIC HERE](https://tracker.gg/developers/apps)
+- Create app to tracker.gg
 - Add Token API
 
 ```
+
+<br>
+
+[CLIC HERE TO CREATE APP](https://tracker.gg/developers/apps)
 
 <br>
 <br>
