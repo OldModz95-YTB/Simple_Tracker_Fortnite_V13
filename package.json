@@ -1,0 +1,29 @@
+{
+  "name": "simple_tracker_fortnite_v13",
+  "version": "1.0.0",
+  "description": "Bot Discord simple tracker Fortnite API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "simple",
+    "commands",
+    "slash",
+    "oldmodz95",
+    "protondev",
+    "fortnite",
+    "modal",
+    "simple",
+    "tracker"
+  ],
+  "author": "oldmodz95",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "axios": "^0.27.2",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.8.0",
+    "moment": "^2.29.1"
+  }
+}
